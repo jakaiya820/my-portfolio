@@ -60,3 +60,37 @@ padding: 10px;
 font-size: 14px;
 }
 }
+/* Navigation styling */
+nav ul{
+list-style:none;
+padding:0;
+text-align:center;
+}
+nav ul li{
+display:inline;
+margin:0 15px;
+}
+nav a{
+text-decoration:none;
+font-weight:bold;
+color:#333;
+}
+/* Main layout */
+main{
+text-align:center;
+margin-top:20px;
+}
+/* Image styling */
+img{
+border-radius:50%;
+margin-top:15px;
+}
+/* Button styling */
+.btn{
+display:inline-block;
+margin-top:20px;
+padding:10px 20px;
+background-color:#333;
+color:white;
+text-decoration:none;
+}
